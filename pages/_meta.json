@@ -1,15 +1,34 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
+  "index": {
     "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
+    "title": "Nextra",
+    "display": "hidden",
+    "theme": {
+      "layout": "raw"
+    }
+  },
+  "docs": {
+    "type": "page",
+    "title": "Docs"
+  },
+  "catalyst-funds": {
+    "type": "page",
+    "title": "Catalyst"
+  },
+  "tv": {
+    "type": "page",
+    "title": "TV"
+  },
+  "school": {
+    "type": "page",
+    "title": "ECS"
+  },
+  "guest": {
+    "type": "page",
+    "title": "Guests"
+  },
+  "pool": {
+    "type": "page",
+    "title": "C3ETH Pool"
   }
 }

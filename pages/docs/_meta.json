@@ -1,0 +1,20 @@
+{
+  "index": "Introduction",
+  "guide": "",
+  "-- Cardano": {
+    "type": "separator",
+    "title": "Cardano"
+  },
+  "cardano-overview": {
+    "title": "Overview"
+  },
+  "learn": {
+    "title": "Blockchain Learning"
+  },
+  "sidechain-overview": {
+    "title": "Sidechain Overview"
+  },
+  "essential": {
+    "title": "Sidechain Essential"
+  }
+}
