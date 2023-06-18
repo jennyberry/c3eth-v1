@@ -31,8 +31,18 @@
     "type": "page",
     "title": "Guests"
   },
-  "pool": {
+  "stakepool": {
     "type": "page",
-    "title": "C3ETH Pool"
+    "title": "C3ETH Pool",
+    "theme": {
+      "typesetting": "article",
+      "layout": "full"
+    }
+  },
+  "NFT": {
+    "title": "NFT ↗",
+    "type": "page",
+    "href": "http://nft.easterntownhall.com:8088/",
+    "newWindow": true
   }
 }
