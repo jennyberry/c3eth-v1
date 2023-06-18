@@ -21,7 +21,11 @@
   },
   "school": {
     "type": "page",
-    "title": "ECS"
+    "title": "ECS",
+    "theme": {
+      "typesetting": "article",
+      "layout": "full"
+    }
   },
   "guest": {
     "type": "page",
