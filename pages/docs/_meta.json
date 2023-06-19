@@ -1,6 +1,10 @@
 {
-  "index": "Introduction",
-  "guide": "",
+  "index": {
+    "display": "hidden"
+  },
+  "guide": {
+    "title": "Proposal Guide"
+  },
   "-- Cardano": {
     "type": "separator",
     "title": "Cardano"

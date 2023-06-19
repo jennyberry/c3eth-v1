@@ -23,7 +23,8 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "components/video/index.jsx"
+    "components/video/index.jsx",
+    "components/globe.js"
   ],
   "exclude": [
     "node_modules"
